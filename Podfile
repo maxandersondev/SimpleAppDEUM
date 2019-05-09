@@ -1,0 +1,2 @@
+target 'Simple'
+pod 'AppDynamicsAgent'

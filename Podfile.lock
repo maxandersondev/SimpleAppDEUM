@@ -1,0 +1,16 @@
+PODS:
+  - AppDynamicsAgent (50.1.1616)
+
+DEPENDENCIES:
+  - AppDynamicsAgent
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AppDynamicsAgent
+
+SPEC CHECKSUMS:
+  AppDynamicsAgent: 1e8e514052267c24b49acbd0781f27dba56ad46b
+
+PODFILE CHECKSUM: 0a5d4faed8ef2b7250910e3d070e348248438f7f
+
+COCOAPODS: 1.6.1
